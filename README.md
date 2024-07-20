@@ -1,6 +1,6 @@
 # PostPal
 Description
-A full-stack web application that allows users to create, read, update, and delete posts. The app features secure user authentication, real-time updates, and a responsive design, making it user-friendly and efficient.
+A full-stack web application that allows users to create, read, update, and delete posts. The app features secure user authentication, and a responsive design, making it user-friendly and efficient.
 
 Features
 User Authentication: Secure sign-up, login, and logout functionalities using JWT.
